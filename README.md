@@ -87,6 +87,9 @@ Copy
 Edit
 ROC-AUC Score: 0.69
 
+📈 ROC Curve Example
+![ROC Curve](roc_curve.png)
+
 ✅ Next Steps / Ideas
 Handle class imbalance with SMOTE or class_weight
 
